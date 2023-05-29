@@ -1,0 +1,6 @@
+export const UPDATE_LOCALE = 'UPDATE_LOCALE';
+export const SET_TODOS = 'SET_TODOS';
+export const ADD_TODO = 'ADD_TODO';
+export const REMOVE_TODO = 'REMOVE_TODO';
+export const UPDATE_TODO_TITLE = 'UPDATE_TODO_TITLE';
+export const COMPLETE_HANDLER = 'COMPLETE_HANDLER';
